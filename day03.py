@@ -88,4 +88,3 @@ for d in data:
                 flag = False
     if flag == True:
         print(f"claim {rec.id} is unique")
-
